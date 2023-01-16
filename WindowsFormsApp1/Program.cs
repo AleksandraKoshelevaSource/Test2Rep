@@ -8,6 +8,10 @@ namespace WindowsFormsApp1
 {
     static class Program
     {
+        static class Data
+        {
+            public static string GlobConn = "qwe456";
+        }
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
